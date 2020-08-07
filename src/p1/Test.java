@@ -1,7 +1,6 @@
 package p1;
-
-public class Test {public Test() {
-	// TODO Auto-generated constructor stub
-}
-
+public class Test {
+	public static void main(String[] args) {
+	System.out.println("1");	
+	}
 }
